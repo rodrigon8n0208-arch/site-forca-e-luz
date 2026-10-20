@@ -1,0 +1,10 @@
+# Material de referência (não faz parte do site)
+referencias/
+
+# Arquivos temporários de teste
+.playwright-mcp/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
